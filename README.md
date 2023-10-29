@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @alejandroayos
-- 👀 I currently work as Accounting Analyst Sr 
-- 🌱 I’m training with data engineering, data analysis and finance tools, with Python always by my side
+- 🌱 I´m currently working with the Head of Finance in the retail industry while continuing to learn and develop my skills in finance, Python, and data analysis and engineering.
 - 📫 How to reach me? send me an email a.ayos@hotmail.com
 
